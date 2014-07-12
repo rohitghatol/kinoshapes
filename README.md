@@ -1,10 +1,13 @@
-KinoScribe 
+KinoShapes
 ==========
-### [Web Components for Prezi like Presentations]
+### [Web Components for Power Point like Shapes]
 
 
-KinoScribe is Web Components for doing Prezi like Presentation. 
+KinoScribe is Web Components for creating Power Point like Shapes
 
+Usage
+======
+TBD
 
 Project Setup
 ==============
@@ -30,4 +33,4 @@ Running the Demo
 In my case I use WebStorm, I right click on kinoscribe/demo.html and click on "Open in Brower"
 I see the following url opens up in chrome
 
-* http://localhost:63342/synerzip-polymer/kinoscribe/demo.html
+* http://localhost:63342/synerzip-polymer/kinoshapes/demo.html
